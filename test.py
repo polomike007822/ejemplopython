@@ -1,6 +1,6 @@
 print("Bienvenidos!!!")
 
-nombre=input("Ingrse su nombre: ")
+nombre=input("Ingrese su nombre: ")
 
 #print("Su nombre es: ", nombre)
 
